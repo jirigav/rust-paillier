@@ -9,7 +9,6 @@ serde = { version = "1.0", features = ["derive"] }
 
 [dependencies.curv]
 git = "https://github.com/jirigav/curv"
-tag = "v0.6.2"
 default-features = false
 
 [dev-dependencies]
